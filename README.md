@@ -1,2 +1,2 @@
 # Modelo-conceitual-BD-MySQL-Oficina-mecanica
-Modelo conceitual em banco de dados utilizando MySQL, de uma oficina mecânica, este é meu 2º Projeto.
+Criei as entidades Cliente, Ordem de serviço, Mecânico, Tipo de Serviço, Valor de cada serviço, Tabela de mão de obra e peças, e seus atributos, co-relacionei a Ordem de serviço, com o cliente, mecânico, tipo de serviço, e as peças, para determinar o valor da OS, e o valor do tipo de serviço com o próprio tipo de serviço, em que ambos tem uma relação de N:M com a tabela de referência de mão de obra.
